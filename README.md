@@ -1,0 +1,2 @@
+# xmrminer
+Destroyer
